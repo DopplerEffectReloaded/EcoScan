@@ -1,4 +1,4 @@
-#Eco Scan
+# Eco Scan
 Simplifying recycling for a better tomorrow, **today**.
 ## Inspiration and the Birth of a Solution
 ### The Problem
