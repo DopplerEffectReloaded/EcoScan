@@ -15,8 +15,10 @@ To incentivize the community we have a **leaderboard** which keeps track of the 
 ## How we built it
 This web app was built using the Flask framework, Firebase for the backend database and authorization along with javascript for handling real time function calls to the object detection and recycling machine learning model API. The website is hosted on firebase hosting while the https API's are current hosted on python anywhere.
 ## How it works
-This flowchart demonstrated how the web app functions:
-![image](https://github.com/user-attachments/assets/f75977f5-9494-4732-9781-15c338f35f29)
+This flowchart demonstrates how the web app functions:
+
+![image](https://github.com/user-attachments/assets/69861e3a-34e8-415a-9fe2-2cbb12748cff)
+
 
 ## Challenges we ran into
 1) Integrating Python and Javascript calls with Flask.
